@@ -7,5 +7,5 @@ DOMAIN-KEYWORD,oray
 DOMAIN-SUFFIX,quzuotu.com
 DOMAIN-KEYWORD,quzuotu
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-SUFFIX,api64.ipify.org
+# DOMAIN-SUFFIX,api.ipify.org
+# DOMAIN-SUFFIX,api64.ipify.org
