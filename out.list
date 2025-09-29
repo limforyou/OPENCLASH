@@ -21,6 +21,6 @@ DOMAIN-SUFFIX,cults3d.com
 DOMAIN-SUFFIX,e-skyshop.com
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-KEYWORD,uhdnow
-DOMAIN-SUFFIX,dler.cloud
-DOMAIN-KEYWORD,dler
+;DOMAIN-SUFFIX,dler.cloud
+;DOMAIN-KEYWORD,dler
 
