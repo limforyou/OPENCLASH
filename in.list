@@ -1,15 +1,30 @@
 # NAME: 国内直连
 # AUTHOR: limforyou
+
+# 向日葵
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,sunlogin.net
 DOMAIN-KEYWORD,oray
 DOMAIN-SUFFIX,quzuotu.com
 DOMAIN-KEYWORD,quzuotu
+
 DOMAIN-SUFFIX,turgame.com
-DOMAIN-SUFFIX,eeeqxxtg.xyz
-DOMAIN-KEYWORD,eeeqxxtg
 DOMAIN-SUFFIX,qy96596.com
+
+# DDNS
+DOMAIN-SUFFIX,eeeqxxtg.top
+DOMAIN-KEYWORD,eeeqxxtg
+
+# Lucky
+DOMAIN-SUFFIX,666666.host
+DOMAIN-SUFFIX,66666.host
+DOMAIN,alidns.aliyuncs.com
+DOMAIN,myip.ipip.net
+DOMAIN,ipv4.ddnspod.com
+DOMAIN,4.ipw.cn
+DOMAIN,ip.3322.net
+
 # DOMAIN-SUFFIX,ipify.org
 # DOMAIN-SUFFIX,api.ipify.org
 # DOMAIN-SUFFIX,api64.ipify.org
