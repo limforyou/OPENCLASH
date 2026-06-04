@@ -25,6 +25,10 @@ DOMAIN,ipv4.ddnspod.com
 DOMAIN,4.ipw.cn
 DOMAIN,ip.3322.net
 
+# 机场
+DOMAIN-SUFFIX,sntp.me
+DOMAIN-KEYWORD,sntp
+
 # DOMAIN-SUFFIX,ipify.org
 # DOMAIN-SUFFIX,api.ipify.org
 # DOMAIN-SUFFIX,api64.ipify.org
