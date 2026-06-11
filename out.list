@@ -19,10 +19,16 @@ DOMAIN-SUFFIX,planespotters.net
 DOMAIN-SUFFIX,planetags.com
 DOMAIN-SUFFIX,cults3d.com
 DOMAIN-SUFFIX,e-skyshop.com
-DOMAIN-SUFFIX,uhdnow.com
-DOMAIN-KEYWORD,uhdnow
+
+# 拓竹国际
 DOMAIN-SUFFIX,makerworld.com
 DOMAIN-KEYWORD,makerworld
+
+# emby
 DOMAIN-KEYWORD,cn2gias
 DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,2026678.xyz
+DOMAIN-KEYWORD,2026678
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-KEYWORD,uhdnow
 
