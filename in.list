@@ -35,6 +35,7 @@ DOMAIN-KEYWORD,sntp
 
 # emby
 DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
 DOMAIN-KEYWORD,uhdnow
 DOMAIN,smart.uhdnow.com
 
