@@ -34,7 +34,7 @@ DOMAIN-KEYWORD,sntp
 # DOMAIN-SUFFIX,api64.ipify.org
 
 # emby
-# DOMAIN-SUFFIX,uhdnow.com
-# DOMAIN-KEYWORD,uhdnow
+DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-KEYWORD,uhdnow
 DOMAIN,smart.uhdnow.com
 
