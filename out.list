@@ -21,9 +21,11 @@ DOMAIN-SUFFIX,cults3d.com
 DOMAIN-SUFFIX,e-skyshop.com
 DOMAIN-KEYWORD,tagss
 
-# 拓竹国际
+  # Bambu Lab 国际服
+DOMAIN,api.bambulab.com
+DOMAIN,us.mqtt.bambulab.com
 DOMAIN-SUFFIX,makerworld.com
-DOMAIN-SUFFIX,makerworld.bblmw.com
+DOMAIN-SUFFIX,bambulab.com
 
 # emby
 # DOMAIN-KEYWORD,cn2gias
