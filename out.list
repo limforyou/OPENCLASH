@@ -22,10 +22,8 @@ DOMAIN-SUFFIX,e-skyshop.com
 DOMAIN-KEYWORD,tagss
 
 # Bambu Lab 国际服
-DOMAIN,api.bambulab.com
-DOMAIN,us.mqtt.bambulab.com
-DOMAIN-SUFFIX,makerworld.com
 DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,makerworld.com
 
 # emby
 # DOMAIN-KEYWORD,cn2gias
