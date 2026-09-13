@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,cults3d.com
 DOMAIN-SUFFIX,e-skyshop.com
 DOMAIN-KEYWORD,tagss
 
-  # Bambu Lab 国际服
+# Bambu Lab 国际服
 DOMAIN,api.bambulab.com
 DOMAIN,us.mqtt.bambulab.com
 DOMAIN-SUFFIX,makerworld.com
