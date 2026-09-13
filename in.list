@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,makerworld.com.cn
 DOMAIN-SUFFIX,bblmw.cn
 DOMAIN-SUFFIX,bblcdn.cn
 
-  # 局域网打印机
+# 局域网打印机
 IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
