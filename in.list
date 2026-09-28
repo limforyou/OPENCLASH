@@ -40,6 +40,8 @@ IP-CIDR,172.16.0.0/12
 # 机场
 DOMAIN-SUFFIX,sntp.me
 DOMAIN-KEYWORD,sntp
+DOMAIN-SUFFIX,api-huacloud.dev
+DOMAIN-KEYWORD,huacloud
 
 # DOMAIN-SUFFIX,ipify.org
 # DOMAIN-SUFFIX,api.ipify.org
